@@ -1172,6 +1172,7 @@ body::-webkit-scrollbar-thumb {
 }
 
 .about-p {
+  max-width: 600px;
   margin-top: 40px;
   color: white;
   margin-left: 90px;
@@ -1523,7 +1524,6 @@ html {
 
 body {
   line-height: 1.6;
-  overflow: hidden;
 }
 
 #particles-js {
