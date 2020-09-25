@@ -1,0 +1,226 @@
+.about{
+    margin-left: 6rem;
+    padding: 1rem;
+    position: absolute;
+    top: 60px;
+    left: 1px;
+    margin-right: 500px;
+    z-index: 9;
+    overflow: hidden;
+
+}
+
+.about-p{
+    margin-top:40px ;
+    color: white;
+    margin-left: 90px;
+    font-family: 'Playfair Display', serif;
+    font-size: 1.3rem;
+}
+
+
+@media only screen and (max-width: 1300px) { .about{margin-right: 350px} }
+@media only screen and (max-width: 1100px) { .about{margin-right: 200px} }
+@media only screen and (max-width: 900px) {
+     .about{
+        margin-left: 3rem;
+        padding: 1rem;
+        position: absolute;
+        top: 60px;
+        left: 1px;
+        margin-right: 60px;
+        z-index: 9;
+        overflow: hidden;
+         
+           }
+
+           .ht2{
+               font-size: 5rem !important;
+           }
+
+     }
+
+     @media only screen and (max-width: 700px) {
+        .about{
+           margin-left: 3rem;
+           padding: 1rem;
+           position: absolute;
+           top: 60px;
+           left: 1px;
+           margin-right: 60px;
+           z-index: 9;
+           overflow: hidden;
+            
+              }
+   
+              .ht2{
+                  font-size: 4.5rem !important;
+              }
+   
+              .about-p{
+                margin-top:20px ;
+                color: white;
+                margin-left: 70px;
+                font-family: 'Playfair Display', serif;
+                font-size: 1.2rem;
+            }
+
+        }
+
+        @media only screen and (max-width: 600px) {
+            .about{
+               margin-left: 1rem;
+               position: absolute;
+               top: 30px;
+               left: 1px;
+               margin-right: 60px;
+               z-index: 9;
+               overflow: hidden;
+                
+                  }
+       
+                  .ht2{
+                      font-size: 4.2rem !important;
+                  }
+       
+                  .about-p{
+                    margin-top:20px ;
+                    color: white;
+                    margin-left: 30px;
+                    font-family: 'Playfair Display', serif;
+                    font-size: 1.1rem;
+                }
+    
+            }
+
+
+            @media only screen and (max-width: 500px) {
+                .about{
+                   margin-left: 1rem;
+                   position: absolute;
+                   top: 30px;
+                   left: 1px;
+                   margin-right: 10px;
+                   z-index: 9;
+                   overflow: hidden;
+                    
+                      }
+           
+                      .ht2{
+                          font-size: 4rem !important;
+                      }
+           
+                      .about-p{
+                        margin-top:20px ;
+                        color: white;
+                        margin-left: 15px;
+                        font-family: 'Playfair Display', serif;
+                        font-size: 1.1rem;
+                    }
+        
+                }
+
+                @media only screen and (max-width: 400px) {
+                    .about{
+                       margin-left: 1rem;
+                       position: absolute;
+                       top: 30px;
+                       left: 1px;
+                       margin-right: 10px;
+                       z-index: 9;
+                       overflow: hidden;
+                        
+                          }
+               
+                          .ht2{
+                              font-size: 3.6rem !important;
+                          }
+               
+                          .about-p{
+                            margin-top:20px ;
+                            color: white;
+                            margin-left: 9px;
+                            font-family: 'Playfair Display', serif;
+                            font-size: 1rem;
+                        }
+            
+                    }
+
+                    
+                @media only screen and (max-width: 350px) {
+                    .about{
+                       margin-left: 1rem;
+                       position: absolute;
+                       top: 30px;
+                       left: 1px;
+                       margin-right: 10px;
+                       z-index: 9;
+                       overflow: hidden;
+                        
+                          }
+               
+                          .ht2{
+                              font-size: 3.1rem !important;
+                          }
+               
+                          .about-p{
+                            margin-top:20px ;
+                            color: white;
+                            margin-left: 11px;
+                            font-family: 'Playfair Display', serif;
+                            font-size: 0.9rem;
+                        }
+            
+                    }
+                    @media only screen and (max-width: 300px) {
+                        .about{
+                           margin-left: 1rem;
+                           position: absolute;
+                           top: 30px;
+                           left: 1px;
+                           margin-right: 10px;
+                           z-index: 9;
+                           overflow: hidden;
+                            
+                              }
+                   
+                              .ht2{
+                                  font-size: 2.7rem !important;
+                              }
+                   
+                              .about-p{
+                                margin-top:20px ;
+                                color: white;
+                                margin-left: 11px;
+                                font-family: 'Playfair Display', serif;
+                                font-size: 0.8rem;
+                            }
+                
+                        }
+// @media only screen and (max-width: 1300px) {
+
+//     .about{
+//         margin-left: 6rem;
+//         padding: 1rem;
+//         position: absolute;
+//         top: 60px;
+//         left: 1px;
+//         margin-right: 500px;
+//         z-index: 9;
+//         overflow: hidden;
+    
+//     }
+    
+//     .about-p{
+//         margin-top:40px ;
+//         color: white;
+//         margin-left: 90px;
+//         font-family: 'Playfair Display', serif;
+//         font-size: 1.3rem;
+//     }
+
+//     .ht2{
+        
+//     }
+
+// }
